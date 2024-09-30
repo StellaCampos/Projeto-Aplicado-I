@@ -12,5 +12,6 @@ Este projeto vai nos ajudar a analisar os dados de população e demografia, par
 
 - ## Membros do Projeto
 - Lucimara de Souza Silva Amaral
-- Stella
+- Stella Amaral de Campos
 - Amanda Pepino
+- Letícia 
