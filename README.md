@@ -1,7 +1,7 @@
 # Análise de Dados: População e Demografia
 
 ## Objetivo
-Este projeto vai nos ajudar a analisar os dados de população e demografia, para entender os fatores que influenciam o crescimento populacional em diferentes regiões do mundo. Ultizaremos algumas técnicas de análise de dados,para descobrir como natalidade, mortalidade e migração impactam o crescimento populacional.
+Este projeto analisa dados de população e demografia para entender os fatores que influenciam o crescimento populacional em diferentes regiões do mundo. Usando técnicas de análise de dados, exploramos como natalidade, mortalidade e migração impactam o crescimento populacional. O objetivo é fornecer insights que possam auxiliar no planejamento urbano e políticas públicas.
 
 ## Estrutura do Repositório
 - `Capa/`: Contém os dados pessoais (Nome, RA) dos integrantes do grupo.
@@ -12,6 +12,6 @@ Este projeto vai nos ajudar a analisar os dados de população e demografia, par
 
 - ## Membros do Projeto
 - Lucimara de Souza Silva Amaral
-- Stella
+- Stella Amaral de Campos
 - Amanda Pepino
 - Leticia Serrano 
